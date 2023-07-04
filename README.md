@@ -37,12 +37,14 @@ Users should be able to:
 
 ### Built with
 
-- REACT
+- HTML5
+- CSS3
+- JavaScript
 
 ### What I learned
 
-- How to deploy a REACT App to github pages
-- Understanding of CSS flexbox and grid
+- Better understanding of CSS flexbox and grid
+- How to build a responsive Webpage with flexbox and grid
 
 ## Author
 
